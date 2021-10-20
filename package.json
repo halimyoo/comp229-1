@@ -1,0 +1,37 @@
+{
+  "name": "comp229",
+  "version": "0.0.1",
+  "private": true,
+  "scripts": {
+    "start": "node ./server.js"
+  },
+  "engine": {
+    "node": "^12.18.3",
+    "npm": "^6.0.0"
+  },
+  "dependencies": {
+    "@fortawesome/fontawesome-free": "^5.15.4",
+    "bootstrap": "^5.1.1",
+    "cookie-parser": "~1.4.4",
+    "debug": "~2.6.9",
+    "ejs": "~2.6.1",
+    "express": "~4.16.1",
+    "http-errors": "~1.6.3",
+    "jquery": "^3.6.0",
+    "morgan": "~1.9.1",
+    "popper.js": "^1.16.1"
+  },
+  "description": "��#\u0000 \u0000C\u0000O\u0000M\u0000P\u00002\u00002\u00009\u0000\r\u0000 \u0000",
+  "main": "index.js",
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/halimyoo/COMP229.git"
+  },
+  "author": "Halim Yoo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/halimyoo/COMP229/issues"
+  },
+  "homepage": "https://github.com/halimyoo/COMP229#readme"
+}
